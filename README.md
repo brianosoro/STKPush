@@ -11,6 +11,8 @@ STKPush by Safaricom Ltd
 
 www.brianosoro.com
 
+@brayanosoro
+
 info@brianosoro.com
 
 brianosoroinc@gmail.com
