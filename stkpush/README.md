@@ -9,9 +9,13 @@ STKPush by Safaricom Ltd
 6. Play Around and Don't hesitate to Go Live. 
 7. See me around buy me a Drink , people think I am a Foodie.
 
+
 www.brianosoro.com
+
 info@brianosoro.com
+
 brianosoroinc@gmail.com
 
 Symatech Labs Ltd
+
 www.symatechlabs.com
