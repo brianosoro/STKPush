@@ -6,7 +6,7 @@ STKPush by Safaricom Ltd
 3. Passkey and other test values are found here https://developer.safaricom.co.ke/test_credentials 
 4. Configure the constants.php found in the libs folder (stkpush/libs/constants.php)
 5. Play Around and Don't hesitate to Go Live. 
-6. See me around buy me a Drink , people think I am a Foodie.
+6. If you happen to see me around buy me a Drink , people think I am a Foodie.
 
 www.brianosoro.com
 info@brianosoro.com
