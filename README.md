@@ -9,8 +9,12 @@ STKPush by Safaricom Ltd
 6. If you happen to see me around buy me a Drink , people think I am a Foodie.
 
 www.brianosoro.com
+
 info@brianosoro.com
+
 brianosoroinc@gmail.com
 
+
 Symatech Labs Ltd
+
 www.symatechlabs.com
