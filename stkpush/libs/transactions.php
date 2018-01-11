@@ -39,9 +39,7 @@ class Transactions
             ->countRows("SELECT id FROM  transactions WHERE msisdn = '" . $this
             ->utilities
             ->sanitize($msisdn) . "' AND status = '0'");
-        return ($count > 0 ? $this->update($msisdn) : "SELECT id FROM  transactions WHERE msisdn = '" . $this
-            ->utilities
-            ->sanitize($msisdn) . "' AND status = '0'");
+        return ($count > 0 ? $this->update($msisdn) : "TRANSACTION_NOT_FOUND");
 
     }
 
