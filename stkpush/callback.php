@@ -1,7 +1,7 @@
 <?php
-
-$myfile = fopen("testfile.txt", "w");
-fwrite($myfile, trim(file_get_contents('php://input')));
-fclose($myfile);
+include_once(realpath($_SERVER["DOCUMENT_ROOT"])."/stkpush/libs/all.php");
+$STK = new STKPush();
+header('Content-type: application/json');
+echo $STK->callbackResponse();
 
 ?>
