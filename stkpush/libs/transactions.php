@@ -57,8 +57,7 @@ class Transactions
 
     public function sendSMS($msisdn , $message){
 
-        $username   = "lipaeasy";
-        $apikey     = "09df0a2c5d39843f7d487dad955f243fa73e241d9ac6896729aa810e5f87aeb4";
+
 
         $gateway    = new AfricasTalkingGateway(SMS_USERNAME, SMS_APIKEY);
 
